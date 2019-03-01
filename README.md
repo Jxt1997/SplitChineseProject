@@ -1,0 +1,2 @@
+# SplitChineseProject
+first use github
